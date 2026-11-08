@@ -1,0 +1,92 @@
+[
+  {
+    "file": "audio\\bgs\\HS_Night.ogg",
+    "source": "D:\\SteamLibrary\\steamapps\\common\\RPG Maker MV\\dlc\\Horror Soundscapes\\loop ogg\\night01.ogg",
+    "sha256": "0e9ec094f719d1535edea5be747224467d0539b413c47be57b1c62ce26b2850c"
+  },
+  {
+    "file": "audio\\bgs\\HS_Night.m4a",
+    "source": "D:\\SteamLibrary\\steamapps\\common\\RPG Maker MV\\dlc\\Horror Soundscapes\\m4a\\night01.m4a",
+    "sha256": "5c545e886fc26e8a05d1f125caf97a542c810ac82ede93ac44df585cc727f234"
+  },
+  {
+    "file": "audio\\bgs\\HS_Rain.ogg",
+    "source": "D:\\SteamLibrary\\steamapps\\common\\RPG Maker MV\\dlc\\Horror Soundscapes\\loop ogg\\only rain.ogg",
+    "sha256": "30feb07d2101175f2b27bef2b5e0923f781ef84e941051dbbbcaa670f654629f"
+  },
+  {
+    "file": "audio\\bgs\\HS_Rain.m4a",
+    "source": "D:\\SteamLibrary\\steamapps\\common\\RPG Maker MV\\dlc\\Horror Soundscapes\\m4a\\only rain.m4a",
+    "sha256": "69aa6c1bbe1a0281eab913f3a189ae6c5b934fdc60b99f76ad1000ad79dfd057"
+  },
+  {
+    "file": "audio\\bgs\\HS_School.ogg",
+    "source": "D:\\SteamLibrary\\steamapps\\common\\RPG Maker MV\\dlc\\Horror Soundscapes\\loop ogg\\ghost01.ogg",
+    "sha256": "73b53baab28bef6b271f8527ca7083b4bd8320bea05ae73fdc70798074b19c53"
+  },
+  {
+    "file": "audio\\bgs\\HS_School.m4a",
+    "source": "D:\\SteamLibrary\\steamapps\\common\\RPG Maker MV\\dlc\\Horror Soundscapes\\m4a\\ghost01.m4a",
+    "sha256": "a093f604bdcfbc317c21b9b4ba72997d2ef246a560ad929c0ac0789507587ced"
+  },
+  {
+    "file": "audio\\bgs\\HS_Hospital.ogg",
+    "source": "D:\\SteamLibrary\\steamapps\\common\\RPG Maker MV\\dlc\\Horror Soundscapes\\loop ogg\\madness labo01.ogg",
+    "sha256": "0260bb0b5cc7c1ff1e473474ba9543fd6dd82941e71408a0d3a5003501428382"
+  },
+  {
+    "file": "audio\\bgs\\HS_Hospital.m4a",
+    "source": "D:\\SteamLibrary\\steamapps\\common\\RPG Maker MV\\dlc\\Horror Soundscapes\\m4a\\madness labo01.m4a",
+    "sha256": "e1f01ecad53f9032a19a424eefb5eb276dcee1720a216f9ffca68d59900cf5b2"
+  },
+  {
+    "file": "audio\\bgs\\HS_Tunnels.ogg",
+    "source": "D:\\SteamLibrary\\steamapps\\common\\RPG Maker MV\\dlc\\Horror Soundscapes\\loop ogg\\only little river.ogg",
+    "sha256": "5a451f12c4d850bcd02d123e7492a7d714e729be4df1a7d39a39bdd417b45e84"
+  },
+  {
+    "file": "audio\\bgs\\HS_Tunnels.m4a",
+    "source": "D:\\SteamLibrary\\steamapps\\common\\RPG Maker MV\\dlc\\Horror Soundscapes\\m4a\\only little river.m4a",
+    "sha256": "ca60d498ff5be858a74c4cf76a90e613d487e5ed0461308d57cc8e0d4668588e"
+  },
+  {
+    "file": "audio\\bgs\\HS_Identity.ogg",
+    "source": "D:\\SteamLibrary\\steamapps\\common\\RPG Maker MV\\dlc\\Horror Soundscapes\\loop ogg\\confusion01.ogg",
+    "sha256": "6cc21c3f77badf598818e417c8aef9b81368976720c485cae1e592c17d805a70"
+  },
+  {
+    "file": "audio\\bgs\\HS_Identity.m4a",
+    "source": "D:\\SteamLibrary\\steamapps\\common\\RPG Maker MV\\dlc\\Horror Soundscapes\\m4a\\confusion01.m4a",
+    "sha256": "f6884b9782ce52b6cae6cd76b3437198fc55b040257210c947374da85da4ab3a"
+  },
+  {
+    "file": "audio\\bgs\\HS_Station.ogg",
+    "source": "D:\\SteamLibrary\\steamapps\\common\\RPG Maker MV\\dlc\\Horror Soundscapes\\loop ogg\\night04.ogg",
+    "sha256": "91d4a6e5c6ab7a07cdb9a6a1aca23a5a72818d0c57a70c898984c2e051bc21a5"
+  },
+  {
+    "file": "audio\\bgs\\HS_Station.m4a",
+    "source": "D:\\SteamLibrary\\steamapps\\common\\RPG Maker MV\\dlc\\Horror Soundscapes\\m4a\\night04.m4a",
+    "sha256": "00cb06735862675d8e4cc1e08666d52e89e4f55445ff7f5f1b32af1c81c1a110"
+  },
+  {
+    "file": "audio\\bgs\\HS_HeartBeat.ogg",
+    "source": "D:\\SteamLibrary\\steamapps\\common\\RPG Maker MV\\dlc\\Horror Soundscapes\\loop ogg\\heart beat.ogg",
+    "sha256": "adbd7cac748339c0f28d8130da3a41d5b797f9e8f9dd5c4937638d1c847bd2dd"
+  },
+  {
+    "file": "audio\\bgs\\HS_HeartBeat.m4a",
+    "source": "D:\\SteamLibrary\\steamapps\\common\\RPG Maker MV\\dlc\\Horror Soundscapes\\m4a\\heart beat.m4a",
+    "sha256": "f9e11472043a1a136e611e6e30d2966ae789a8120728cc27b1b04f337580edc6"
+  },
+  {
+    "file": "audio\\bgs\\HS_Archive.ogg",
+    "source": "D:\\SteamLibrary\\steamapps\\common\\RPG Maker MV\\dlc\\Horror Soundscapes\\loop ogg\\ghost04.ogg",
+    "sha256": "2a3fe10ea7bbf76bbddd770f344a0f819c603c8fe38df40c104542af567d6989"
+  },
+  {
+    "file": "audio\\bgs\\HS_Archive.m4a",
+    "source": "D:\\SteamLibrary\\steamapps\\common\\RPG Maker MV\\dlc\\Horror Soundscapes\\m4a\\ghost04.m4a",
+    "sha256": "e4ef6f18c21bc7e0ad6b7b40e04334473194c450495e3eb05ce9716a3f408644"
+  }
+]
